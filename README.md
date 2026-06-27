@@ -5,7 +5,7 @@ Junior Data Analyst
 ## Skills
 
 - SQL (PostgreSQL)
-- Python (Pandas, numpy, matplotlib, scipy)
+- Python (pandas, numpy, matplotlib, scipy)
 - DataLens
 - Jupyter Notebook
 - Git
