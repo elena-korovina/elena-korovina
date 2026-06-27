@@ -19,4 +19,3 @@ Junior Data Analyst
 ## Contacts
 
 - Email: elena.giordano@yandex.ru
-- LinkedIn: ...
