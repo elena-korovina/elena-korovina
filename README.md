@@ -1,16 +1,22 @@
-## Hi there 👋
+# Elena Korovina
 
-<!--
-**elena-korovina/elena-korovina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Analyst
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL (PostgreSQL)
+- Python (Pandas)
+- DataLens
+- Jupyter Notebook
+- Git
+
+## Portfolio Projects
+
+- 🏠 Real Estate Market Analysis
+- 🚀 Startup Investment Analysis
+- 📚 Yandex Books Analytics & A/B Testing
+
+## Contacts
+
+- Email: elena.giordano@yandex.ru
+- LinkedIn: ...
