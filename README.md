@@ -18,4 +18,4 @@ Junior Data Analyst
 
 ## Contacts
 
-- Email: elena.giordano@yandex.ru
+- Email: elena.o.korovina@gmail.com
